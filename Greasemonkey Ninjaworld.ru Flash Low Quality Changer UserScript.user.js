@@ -1,19 +1,24 @@
 // ==UserScript==
-// @name           Ninjaworld.ru Flash Low Quality Changer
-// @namespace      *
-// @description    Ninjaworld.ru Flash Low Quality Changer
-// @include        http://testabc.fysco.ru/*
-// @include        https://testabc.fysco.ru/*
-// @include        testabc.fysco.ru/*
-// @include        *.testabc.fysco.ru/*
-// @include        testabc.fysco.ru
-// @include        http://ninjaworld.ru/*
-// @include        https://ninjaworld.ru/*
-// @include        http://*.ninjaworld.ru/*
-// @include        ninjaworld.ru/*
-// @include        *.ninjaworld.ru/*
-// @include        ninjaworld.ru
-// ==/UserScript==
+// @name Ninjaworld.ru Flash Low Quality Changer
+// @namespace *
+// @description Ninjaworld.ru Flash Low Quality Changer
+// @include http://testabc.fysco.ru/*
+// @include https://testabc.fysco.ru/*
+// @include testabc.fysco.ru/*
+// @include *.testabc.fysco.ru/*
+// @include testabc.fysco.ru
+// @include http://ninjaworld.ru/*
+// @include https://ninjaworld.ru/*
+// @include http://*.ninjaworld.ru/*
+// @include ninjaworld.ru/*
+// @include *.ninjaworld.ru/*
+// @include ninjaworld.ru
+// @include http://ninjaworld.cdnvideo.ru/*
+// @include https://ninjaworld.cdnvideo.ru/*
+// @include http://*.ninjaworld.cdnvideo.ru/*
+// @include *.ninjaworld.cdnvideo.ru/*
+// @include ninjaworld.cdnvideo.ru
+// ==/UserScript== 
 
 (function(){
  //var quality = "high"; 
